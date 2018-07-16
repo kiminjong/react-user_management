@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Elon Musk",
+        "phone":"0916999999",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Bill Gates",
+        "phone":"0916999999",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Mark",
+        "phone":"0916999999",
+        "permission":3
+    }
+]
